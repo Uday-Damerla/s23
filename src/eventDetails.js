@@ -1,5 +1,7 @@
 
 import poster from "./images/poster/s23.png";
+import poster3 from "./images/poster/3.png";
+import poster6 from "./images/poster/6.png";
 
 
 
@@ -51,7 +53,7 @@ export const events = [
   {
     "name": "Design of PCB - Concept to Creation",
     "alias": "Dept. Electrical & Electronics Engineering",
-    "image": poster,
+    "image": poster3,
     "aboutWorkshop": "TBU",
     "WorkshopDetail": [
       "It is a Departmental Workshop.",
@@ -117,7 +119,7 @@ export const events = [
   {
     "name": "Advancing Home Intelligence",
     "alias": "Dept. Electronics and communication Engineering",
-    "image": poster,
+    "image": poster6,
     "aboutWorkshop": "TBU",
     "WorkshopDetail": [
       "It is a Departmental Workshop.",
